@@ -108,7 +108,7 @@ body {
   left: 0;
   width: 100%;
   padding: var(--s3) var(--s2) var(--s2);
-
+  background: black;
   /* prettier-ignore */
   background-image:
     linear-gradient(
